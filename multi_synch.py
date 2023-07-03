@@ -17,7 +17,7 @@ from ni_card.acquire_ni import ni_ao,ni_do
 from serial_port.serial_con import serial_connect
 import random
 
-class interbrain():
+class multisynch():
 #  def __init__(self,device_nos,portname='/dev/ttyUSB0'):
 #  def __init__(self,device_nos,portname='COM4'):
   def __init__(self,eye_ip0,eye_port0,eye_ip1,eye_port1,ao_dev="Dev2/ao0",do_dev="Dev2/port1/line0",serial_portname='COM3'):
