@@ -1,5 +1,5 @@
-# inter_brain
- Library for synchronization of hyperscanning experiment
+# Multi-device Inter Synchronizer
+ Library for synchronization of multiple devices in an interpersonal experimental setup
  
  This is a generic library for acquiring hyperscanning data from multiple recording devices.
  Currently supported:
