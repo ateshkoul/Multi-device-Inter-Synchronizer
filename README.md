@@ -6,3 +6,4 @@
  1. EEG
  2. Pupil labs eye tracker
  3. Dual video cameras
+ 4. Vicon system
